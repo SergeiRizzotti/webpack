@@ -1,3 +1,12 @@
+# editor
 .vs-code
+.idea
+
+# dependencies
 node_modules
+
+# production
 dist
+
+# files
+package-lock.json
